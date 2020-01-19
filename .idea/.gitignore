@@ -144,4 +144,10 @@ buildNumber.properties
 .flattened-pom.xml
 
 # End of https://www.gitignore.io/api/git,java,maven,intellij+all
-# End of https://www.gitignore.io/api/git,java,maven,intellij+all
+/$CACHE_FILE$
+/.name
+/../BeerDB.iml
+/compiler.xml
+/encodings.xml
+/misc.xml
+/vcs.xml
